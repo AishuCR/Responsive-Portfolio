@@ -1,0 +1,324 @@
+
+@media screen and (max-width: 640px)
+{
+    /* The body's bg color will be #333 */
+    body{
+        background-color: #333;
+    }
+    
+    #p1{
+        width:100%;
+        height:50px;
+      margin-top:0px;
+      margin-left:0px;
+      margin-right:0px;
+      margin-bottom:0px;
+      background-color: teal;
+      text-align: center;
+      color:white;
+    }
+    #p2{
+        margin-top:0px;
+        width:33.3%;
+        height:40px;
+        float:left;
+        background-color: white;
+        text-align: center;
+    }
+    #p3{
+        margin-top:0px;
+        width:33.3%;
+        height:40px;
+        float:left;
+        background-color: white;
+        text-align: center;
+    }
+    #p4{
+        margin-top:0px;
+        width:33.3%;
+        height:40px;
+        background-color: white;
+        float:left;
+        text-align: center;
+    }
+    
+    
+    #maincontent{
+        margin:10%;
+        width:76%;
+        border:solid thin #777777;
+        padding:2%;
+        background-color: white;
+    }
+    #name{
+        color:teal;
+    }
+    #i6{
+        width:60%;
+        margin-left:20%;
+        margin-right:20%;
+        height:300px;
+    }
+    #footer{
+        width:100%;
+        text-align: center;
+        background-color: #777777;
+        color:white;
+        padding:10px;
+        bottom:0px;
+        left:0p;
+        right:0px;
+        position:fixed;
+        border-top:teal solid thick;
+    }
+
+}
+@media screen and (max-width: 768px) and (min-width: 641px)
+{
+    body{
+        background-color:steelblue;
+    }
+   #d1{
+       background-color: white;
+       height:60px;
+       border: solid thin #777777;
+   }
+    #p1{
+        width: 30%;
+        text-align: center;
+        background-color: teal;
+        color:white;
+        border:teal solid thin;
+        margin-top:0px;
+        margin-right:10%;
+        margin-left:10%;
+        float:left;
+        height:58px;
+    }
+    #p2{
+        float:left;
+        width:15%;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        border-right: black solid thin;
+    }
+    #p2:hover{
+        background-color: crimson;
+    }
+    #p3{
+        float:left;
+        width:15%;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        border-right:black solid thin;
+    }
+    #p3:hover{
+        background-color: springgreen;
+    }
+    #p4{
+        float:left;
+        width:15%;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+    #p4:hover{
+        background-color: tomato;
+    }
+
+    #maincontent{
+        margin:10%;
+        border:solid thin #777777;
+        padding:10px;
+        background-color:white;
+    }
+    #name{
+        color:teal;
+    }
+    #i6{
+        width:200px;
+        height:200px;
+        margin-right:10px;
+        float:left;
+    }
+    #footer{
+        width:100%;
+        text-align: center;
+        background-color: #777777;
+        color:white;
+        padding:10px;
+        bottom:0px;
+        left:0p;
+        right:0px;
+        position:fixed;
+        border-top:teal solid thick;
+    }
+    
+}
+@media screen and (max-width: 980px) and (min-width: 769px){
+    
+    body{
+        background-color: rosybrown;
+    }
+   #d1{
+       background-color: white;
+       height:60px;
+       border: solid thin #777777;
+   }
+    #p1{
+        width: 30%;
+        text-align: center;
+        background-color: teal;
+        color:white;
+        border:teal solid thin;
+        margin-top:0px;
+        margin-right:10%;
+        margin-left:10%;
+        float:left;
+        height:58px;
+    }
+    #p2{
+        float:left;
+        width:15%;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        border-right: black solid thin;
+    }
+    #p2:hover{
+        background-color: crimson;
+    }
+    #p3{
+        float:left;
+        width:15%;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        border-right:black solid thin;
+    }
+    #p3:hover{
+        background-color: springgreen;
+    }
+    #p4{
+        float:left;
+        width:15%;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+    #p4:hover{
+        background-color: tomato;
+    }
+
+    #maincontent{
+        margin:10%;
+        width:80%;
+        border:solid thin #777777;
+        background-color:white;
+        margin-top:10%;
+        padding:10px;
+    }
+    #name{
+        color:teal;
+    }
+    #i6{
+
+        margin-right:10px;
+        float:left;
+        width:200px;
+        height:200px;
+    }
+    #footer{
+        width:100%;
+        text-align: center;
+        background-color: #777777;
+        color:white;
+        padding:10px;
+        bottom:0px;
+        left:0p;
+        right:0px;
+        position:fixed;
+        border-top:teal solid thick;
+    }
+}
+@media screen and (min-width: 980px){
+
+    body{
+        background-color: darkgoldenrod;
+    }
+   #d1{
+       background-color: white;
+       height:60px;
+       border: solid thin #777777;
+   }
+    #p1{
+        width: 30%;
+        text-align: center;
+        background-color: teal;
+        color:white;
+        border:teal solid thin;
+        margin-top:0px;
+        margin-right:10%;
+        margin-left:10%;
+        float:left;
+        height:58px;
+    }
+    #p2{
+        float:left;
+        width:15%;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        border-right: black solid thin;
+    }
+    #p2:hover{
+        background-color: crimson;
+    }
+    #p3{
+        float:left;
+        width:15%;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        border-right:black solid thin;
+    }
+    #p3:hover{
+        background-color: springgreen;
+    }
+    #p4{
+        float:left;
+        width:15%;
+        text-align: center;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+    #p4:hover{
+        background-color: tomato;
+    }
+
+    #maincontent{
+        margin:10%;
+        width:80%;
+        height:500px;
+        border:solid thin #777777;
+        background-color:white;
+        margin-top:10%;
+        padding:10px;
+    }
+    #name{
+        color:teal;
+    }
+    #i6{
+
+        margin-right:10px;
+        float:left;
+        width:10%;
+        height:10%;
+    }
+    #footer{
+        width:100%;
+        text-align: center;
+        background-color: #777777;
+        color:white;
+        padding:10px;
+        bottom:0px;
+        left:0p;
+        right:0px;
+        position:fixed;
+        border-top:teal solid thick;
+    }
+
+}
