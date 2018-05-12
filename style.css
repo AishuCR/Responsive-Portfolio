@@ -73,7 +73,6 @@
         }
         #i4{
             width:100%;
-            float:left;
         }
         .container5 {
             position: relative;
@@ -131,6 +130,7 @@
     #maincontent{
         margin:10%;
         width:76%;
+
         border:solid thin #777777;
         padding:2%;
         background-color: white;
@@ -214,8 +214,8 @@
         margin:10%;
         border:solid thin #777777;
         padding:10px;
+        height:900px;
         background-color:white;
-        height:800px;
     }
     #name{
         color:teal;
@@ -400,7 +400,7 @@
         border:solid thin #777777;
         padding:10px;
         background-color:white;
-        height:800px;
+        height:1200px;
     }
     #name{
         color:teal;
@@ -584,7 +584,7 @@
         border:solid thin #777777;
         padding:10px;
         background-color:white;
-        height:800px;
+        height:1800px;
     }
     #name{
         color:teal;
